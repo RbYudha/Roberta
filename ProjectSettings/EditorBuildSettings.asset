@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 4c71de3bdf9e84f4ba4678b25ae68fa1
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/intro1.unity
+    guid: 71c7e9057bbde0b45bb3c4f243db6697
+  - enabled: 0
+    path: Assets/Scenes/intro_avianflu.unity
+    guid: 9720ed9732ce3104296004f09964bd23
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Scenes/intro_polio.unity
+    guid: 2618b37bbd4b5314a8cdf96fdab85882
+  - enabled: 0
+    path: Assets/Scenes/Level2p.unity
+    guid: dfe6b5421a1f9fc4dbc77198d5bed279
+  - enabled: 0
+    path: Assets/Scenes/intro_bubonic.unity
+    guid: f3c6d1fce7f55c246b07fd0713388f53
+  - enabled: 0
+    path: Assets/Scenes/Level3.unity
+    guid: a2119a44088b37045aaf6bd8d3efeac3
+  - enabled: 0
+    path: Assets/Scenes/TheEnd.unity
+    guid: acdec25a256a85a4e8e4c82c69a7710e
+  m_configObjects: {}
