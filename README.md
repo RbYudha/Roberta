@@ -1,4 +1,7 @@
 # Roberta Unexpected Journey
  Serius game dengan tema edukasi TBC
- 
- # Silahkan update pada branch ini
+
+# Mohon update pada branch Roberta - seri6us
+
+Mohon tidak melakukan update pada repository main. Repository main adalah backup Game Roberta Unexpected Journey
+
